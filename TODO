@@ -1,0 +1,3 @@
+* Link to online docs and hex packages
+* API design - don't include IDs etc, model the semantics not the data
+* Context
